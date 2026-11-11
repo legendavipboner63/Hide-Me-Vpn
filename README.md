@@ -209,4 +209,4 @@ This repository serves as the official landing page for Hide.me VPN. The softwar
 **Get the most recent version of Hide.me VPN today!**
 
 ---
-**Last updated:** 2026-11-11 15:43:24 UTC
+**Last updated:** 2026-11-11 22:23:39 UTC
